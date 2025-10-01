@@ -33,3 +33,9 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - usuário digita um CPF de 11 dígitos
   - calcula os dígitos verificadores
   - informa se o CPF é válido ou inválido
+##
+**mini_quiz.py** → Quiz no terminal:
+  - perguntas de múltipla escolha com cinco opções cada
+  - jogador digita a letra da resposta
+  - informa se a resposta está correta ou incorreta
+  - exibe o total de acertos ao final
