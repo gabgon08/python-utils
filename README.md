@@ -18,6 +18,11 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - exibe progresso com '*' para letras não acertadas
   - termina quando a palavra completa é descoberta
 ##
+**agrupar_contatos.py** → Script que agrupa nomes de contatos por inicial:
+  - dado um dicionário nome: telefone
+  - organiza os nomes por letra inicial maiúscula
+  - exibe cada grupo de nomes agrupados pela inicial
+##
 **lista_de_tarefas.py** → Gerenciador de tarefas no terminal, com opções de:
   - adicionar e listar tarefas
   - desfazer e refazer ações
