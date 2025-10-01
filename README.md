@@ -29,6 +29,13 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - utiliza `isinstance()` para fazer a contagem
   - exibe o total de cada tipo no terminal
 ##
+**gerenciador_tarefas.py** → Programa de gerenciamento de tarefas no terminal:
+  - adiciona tarefas com nome, prioridade (1–5) e status (concluída ou não)
+  - lista todas as tarefas ordenadas por prioridade
+  - mostra apenas as tarefas não concluídas
+  - permite marcar tarefas como concluídas pelo nome
+  - possui menu interativo para navegação
+##
 **lista_de_tarefas.py** → Gerenciador de tarefas no terminal, com opções de:
   - adicionar e listar tarefas
   - desfazer e refazer ações
