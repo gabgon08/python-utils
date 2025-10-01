@@ -41,6 +41,11 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - permite verificar valores aplicando todos os filtros
   - retorna True apenas se todas as funções aprovarem o valor
 ##
+**geradora_aleatoria.py** → Gerador pseudo-aleatório com seed:
+  - usa a fórmula `(anterior * 7 + 3) % 100`
+  - gera uma sequência de valores baseada em um número inicial (seed)
+  - implementado com `yield`
+##
 **gerenciador_tarefas.py** → Programa de gerenciamento de tarefas no terminal:
   - adiciona tarefas com nome, prioridade (1–5) e status (concluída ou não)
   - lista todas as tarefas ordenadas por prioridade
