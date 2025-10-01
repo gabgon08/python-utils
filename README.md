@@ -30,6 +30,11 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - permite depositar valores
   - mantém o saldo atualizado entre as operações
 ##
+**calculadora.py** → Função calculadora com tratamento de erros:
+  - recebe dois números e uma operação (+, -, *, /)
+  - usa dicionário de operadores da biblioteca `operator`
+  - trata divisão por zero, operação inválida e entrada não numérica
+##
 **contagem_tipos.py** → Script que conta tipos de elementos em uma lista:
   - recebe uma lista com qualquer tipo de valor
   - conta quantos elementos são `str`, `int`, `list` e `dict`
