@@ -23,6 +23,13 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - organiza os nomes por letra inicial maiúscula
   - exibe cada grupo de nomes agrupados pela inicial
 ##
+**caixa_eletronico.py** → Simulação de caixa eletrônico com closures:
+  - inicia com um valor definido (`criar_caixa(valor_inicial)`)
+  - permite consultar saldo
+  - permite sacar valores (se houver saldo suficiente)
+  - permite depositar valores
+  - mantém o saldo atualizado entre as operações
+##
 **contagem_tipos.py** → Script que conta tipos de elementos em uma lista:
   - recebe uma lista com qualquer tipo de valor
   - conta quantos elementos são `str`, `int`, `list` e `dict`
