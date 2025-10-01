@@ -28,3 +28,8 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - aumenta os preços em 10% (gera novos_produtos)
   - ordena produtos por nome decrescente (gera produtos_ordenados_por_nome)
   - ordena produtos por preço crescente (gera produtos_ordenados_por_preco)
+##
+**validar_cpf.py** → Script para validar CPF no terminal:
+  - usuário digita um CPF de 11 dígitos
+  - calcula os dígitos verificadores
+  - informa se o CPF é válido ou inválido
