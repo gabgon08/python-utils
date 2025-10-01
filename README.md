@@ -36,6 +36,11 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - utiliza `isinstance()` para fazer a contagem
   - exibe o total de cada tipo no terminal
 ##
+**filtro_condicional.py** → Sistema de filtros condicionais com closures:
+  - permite adicionar funções de filtragem
+  - permite verificar valores aplicando todos os filtros
+  - retorna True apenas se todas as funções aprovarem o valor
+##
 **gerenciador_tarefas.py** → Programa de gerenciamento de tarefas no terminal:
   - adiciona tarefas com nome, prioridade (1–5) e status (concluída ou não)
   - lista todas as tarefas ordenadas por prioridade
