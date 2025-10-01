@@ -23,6 +23,12 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - organiza os nomes por letra inicial maiúscula
   - exibe cada grupo de nomes agrupados pela inicial
 ##
+**contagem_tipos.py** → Script que conta tipos de elementos em uma lista:
+  - recebe uma lista com qualquer tipo de valor
+  - conta quantos elementos são `str`, `int`, `list` e `dict`
+  - utiliza `isinstance()` para fazer a contagem
+  - exibe o total de cada tipo no terminal
+##
 **lista_de_tarefas.py** → Gerenciador de tarefas no terminal, com opções de:
   - adicionar e listar tarefas
   - desfazer e refazer ações
