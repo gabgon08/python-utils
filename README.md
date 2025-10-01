@@ -29,13 +29,14 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
   - ordena produtos por nome decrescente (gera produtos_ordenados_por_nome)
   - ordena produtos por preço crescente (gera produtos_ordenados_por_preco)
 ##
-**validar_cpf.py** → Script para validar CPF no terminal:
-  - usuário digita um CPF de 11 dígitos
-  - calcula os dígitos verificadores
-  - informa se o CPF é válido ou inválido
-##
 **mini_quiz.py** → Quiz no terminal:
   - perguntas de múltipla escolha com cinco opções cada
   - jogador digita a letra da resposta
   - informa se a resposta está correta ou incorreta
   - exibe o total de acertos ao final
+##
+**validar_cpf.py** → Script para validar CPF no terminal:
+  - usuário digita um CPF de 11 dígitos
+  - calcula os dígitos verificadores
+  - informa se o CPF é válido ou inválido
+
