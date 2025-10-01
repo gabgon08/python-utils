@@ -12,13 +12,18 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
 
 ## 📂 Scripts incluídos
 
+**adivinha_palavra.py** → Jogo de adivinhação de palavras no terminal:
+  - jogador digita a palavra secreta
+  - usuário tenta adivinhar letra por letra
+  - exibe progresso com '*' para letras não acertadas
+  - termina quando a palavra completa é descoberta
+##
 **lista_de_tarefas.py** → Gerenciador de tarefas no terminal, com opções de:
   - adicionar e listar tarefas
   - desfazer e refazer ações
   - salvar em arquivo JSON
   - carregar tarefas salvas
 ##
-
 **manipulacao_produtos.py** → Script que realiza operações em uma lista de produtos:
   - aumenta os preços em 10% (gera novos_produtos)
   - ordena produtos por nome decrescente (gera produtos_ordenados_por_nome)
