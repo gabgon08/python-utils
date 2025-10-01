@@ -7,7 +7,7 @@ Centralizar códigos pequenos, mas úteis, que podem servir tanto como referênc
 **📌CONTEÚDO:**
 - Scripts simples para resolver problemas práticos.
 - Exercícios e experimentos de estudos em Python.
-- Exemplos de manipulação de arquivos, listas, dicionários e automações.
+- Exemplos de manipulação de arquivos, listas e dicionários.
 ---
 
 ## 📂 Scripts incluídos
